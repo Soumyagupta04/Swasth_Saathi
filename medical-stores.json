@@ -1,0 +1,1896 @@
+[
+  {
+    "id": "raipur-medplus-kushalpur",
+    "name": "MedPlus Kushalpur Chowk",
+    "type": "pharmacy",
+    "address": "779, Ring Road No. 1, near Kushalpur Road, Sunder Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "09281152673",
+    "latitude": 21.2278125,
+    "longitude": 81.6119375,
+    "services": [
+      "Pharmacy"
+    ],
+    "reviewRating": 4.4,
+    "reviewCount": 28,
+    "verificationStatus": "google_maps_listed_reviews_screened_license_unconfirmed",
+    "source": "Google Maps listing and reviews; 4.4/5 from 28 reviews at lookup. License not independently verified.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=MedPlus+Kushalpur+Chowk+Raipur",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps Plus Code 6JH6+4Q",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=6JH6%2B4Q+Raipur"
+  },
+  {
+    "id": "raipur-medplus-shivanand-nagar",
+    "name": "MedPlus Shivanand Nagar",
+    "type": "pharmacy",
+    "address": "Khasra No. 449/5, 7JFM+686, Saptgiri Colony, Khamtarai, Raipur, Chhattisgarh 492008",
+    "phone": "09281152671",
+    "latitude": 21.2730375,
+    "longitude": 81.633265625,
+    "services": [
+      "Pharmacy"
+    ],
+    "reviewRating": 4.5,
+    "reviewCount": 4,
+    "reviewNotes": "Small review sample: three five-star and one three-star review in the Maps summary at lookup.",
+    "verificationStatus": "google_maps_listed_reviews_screened_license_unconfirmed",
+    "source": "Google Maps listing and reviews; 4.5/5 from 4 reviews at lookup. License not independently verified.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=MedPlus+Shivanand+Nagar+Raipur",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps Plus Code 7JFM+686",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=7JFM%2B686+Raipur"
+  },
+  {
+    "id": "raipur-apollo-new-rajender-nagar",
+    "name": "Apollo Pharmacy New Rajender Nagar",
+    "type": "pharmacy",
+    "address": "Ward 46, Khasra No. 379/5, 388/1, 379/2, beside Krishna Hospital, Sector 2, Bajaj Colony, New Rajendra Nagar, Raipur, Chhattisgarh 492001",
+    "phone": "07942813255",
+    "latitude": 21.2236875,
+    "longitude": 81.6601875,
+    "services": [
+      "Pharmacy"
+    ],
+    "reviewRating": 4.4,
+    "reviewCount": 18,
+    "reviewNotes": "Visible reviews mention courteous staff and discounts; one noted some medicines may be unavailable.",
+    "verificationStatus": "google_maps_listed_reviews_screened_license_unconfirmed",
+    "source": "Google Maps listing and reviews; 4.4/5 from 18 reviews at lookup. License not independently verified.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+New+Rajender+Nagar+Raipur",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps Plus Code 6MF6+F3",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=6MF6%2BF3+Raipur"
+  },
+  {
+    "id": "raipur-dhanvantari-mekahara",
+    "name": "Shree Dhanvantari Generic Medical Store Mekahara",
+    "type": "pharmacy",
+    "address": "7J2R+2H4, Jail Road, near Mekahara Main Gate, Raipur, Chhattisgarh 492001",
+    "phone": null,
+    "latitude": 21.2500125,
+    "longitude": 81.641453125,
+    "services": [
+      "Pharmacy"
+    ],
+    "reviewRating": 4.4,
+    "reviewCount": 43,
+    "verificationStatus": "google_maps_listed_reviews_screened_license_unconfirmed",
+    "source": "Google Maps listing and reviews; 4.4/5 from 43 reviews at lookup. License not independently verified.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Shree+Dhanvantari+Generic+Medical+Store+Mekahara+Raipur",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps Plus Code 7J2R+2H4",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=7J2R%2B2H4+Raipur"
+  },
+  {
+    "id": "raipur-apollo-samatha-colony",
+    "name": "Apollo Pharmacy Samatha Colony",
+    "type": "pharmacy",
+    "address": "Agrasen Chowk, Samta Colony, Raipur, Chhattisgarh 492001",
+    "phone": "07714904527",
+    "latitude": 21.2464435,
+    "longitude": 81.6247859,
+    "services": [
+      "Pharmacy"
+    ],
+    "reviewRating": 4.2,
+    "reviewCount": 22,
+    "reviewNotes": "Mixed feedback includes repeated medicine availability complaints; Google Maps also shows positive reports of staff arranging medicines. Call to confirm stock.",
+    "verificationStatus": "google_maps_listed_reviews_screened_license_unconfirmed",
+    "source": "Google Maps listing and reviews; Apollo Pharmacy store locator lists this location. 4.2/5 from 22 Google Maps reviews at lookup. License not independently verified.",
+    "sourceUrl": "https://www.apollopharmacy.in/medical-stores/raipur/apollo_pharmacy_samatha_colony-13059",
+    "additionalSourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Samatha+Colony+Raipur",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps place URL coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Apollo+Pharmacy+Samatha+Colony/@21.2464435,81.6247859"
+  },
+  {
+    "id": "raipur-store-varrssa-medical-store",
+    "name": "Varrssa Medical Store",
+    "type": "pharmacy",
+    "address": "Gouthan Chowk, Raipur, Chhattisgarh",
+    "phone": "09074669150",
+    "latitude": 21.2450193,
+    "longitude": 81.5758594,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 5 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Varrssa+Medical+Store+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2450193%2C81.5758594",
+    "reviewRating": 5.0,
+    "reviewCount": 5
+  },
+  {
+    "id": "raipur-store-amrit-pharmacy",
+    "name": "Amrit Pharmacy",
+    "type": "pharmacy",
+    "address": "7H4J+R85, Raipur, Chhattisgarh",
+    "phone": "07990827627",
+    "latitude": 21.2570191,
+    "longitude": 81.5808741,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.3/5 from 39 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Amrit+Pharmacy+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2570191%2C81.5808741",
+    "reviewRating": 3.3,
+    "reviewCount": 39
+  },
+  {
+    "id": "raipur-store-tata-1mg-pharmacy-lab-tests",
+    "name": "Tata 1mg Pharmacy & Lab Tests",
+    "type": "pharmacy",
+    "address": "Ground Floor, Suyash Hospital, Kota, Raipur, Chhattisgarh",
+    "phone": "07428122381",
+    "latitude": 21.2575034,
+    "longitude": 81.5914503,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 80 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Tata+1mg+Pharmacy+&+Lab+Tests+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2575034%2C81.5914503",
+    "reviewRating": 5.0,
+    "reviewCount": 80
+  },
+  {
+    "id": "raipur-store-amrit-pharmacy-aiims-raipur",
+    "name": "AMRIT Pharmacy AIIMS Raipur",
+    "type": "pharmacy",
+    "address": "AIIMS Pharmacy Gate, Street Number 4, Tatibandh, Raipur, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.2574281,
+    "longitude": 81.5774632,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=AMRIT+Pharmacy+AIIMS+Raipur+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2574281%2C81.5774632"
+  },
+  {
+    "id": "raipur-store-amrit-pharmacy-unit-2-aiims-raipur",
+    "name": "AMRIT Pharmacy Unit 2 AIIMS Raipur",
+    "type": "pharmacy",
+    "address": "Unit 2, AIIMS, Tatibandh, Raipur, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.2574281,
+    "longitude": 81.5774632,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=AMRIT+Pharmacy+Unit+2+AIIMS+Raipur+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2574281%2C81.5774632"
+  },
+  {
+    "id": "raipur-store-medplus-pharmacy-ar-tower-sunder-nagar",
+    "name": "MedPlus Pharmacy AR Tower Sunder Nagar",
+    "type": "pharmacy",
+    "address": "Opposite Orbit Tower, Sunder Nagar, Raipur, Chhattisgarh",
+    "phone": "09039011970",
+    "latitude": 21.2346946,
+    "longitude": 81.6102151,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.9/5 from 114 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=MedPlus+Pharmacy+AR+Tower+Sunder+Nagar+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2346946%2C81.6102151",
+    "reviewRating": 4.9,
+    "reviewCount": 114
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-gol-chowk-rohinipuram",
+    "name": "Apollo Pharmacy Gol Chowk Rohinipuram",
+    "type": "pharmacy",
+    "address": "Kh. No. 140/1 & 140/3, Gol Chowk, near Shri Sai Baba Mandir, Rohinipuram, Raipur, Chhattisgarh",
+    "phone": "07949290588",
+    "latitude": 21.2367022,
+    "longitude": 81.6011631,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.8/5 from 24 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Gol+Chowk+Rohinipuram+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2367022%2C81.6011631",
+    "reviewRating": 3.8,
+    "reviewCount": 24
+  },
+  {
+    "id": "raipur-store-medplus-fafadih-chowk-mitan-vihar",
+    "name": "MedPlus Fafadih Chowk Mitan Vihar",
+    "type": "pharmacy",
+    "address": "House No. 724, Raman Mandir Ward, Fafadih, Raipur, Chhattisgarh",
+    "phone": "06300800147",
+    "latitude": 21.2624713,
+    "longitude": 81.6336908,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 2 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=MedPlus+Fafadih+Chowk+Mitan+Vihar+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2624713%2C81.6336908",
+    "reviewRating": 5.0,
+    "reviewCount": 2
+  },
+  {
+    "id": "raipur-store-medplus-samta-colony",
+    "name": "MedPlus Samta Colony",
+    "type": "pharmacy",
+    "address": "Near Agrasen Chowk, Samta Colony, Raipur, Chhattisgarh",
+    "phone": "06232017717",
+    "latitude": 21.2463607,
+    "longitude": 81.6255319,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.6/5 from 23 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=MedPlus+Samta+Colony+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2463607%2C81.6255319",
+    "reviewRating": 4.6,
+    "reviewCount": 23
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-tatibandh",
+    "name": "Apollo Pharmacy Tatibandh",
+    "type": "pharmacy",
+    "address": "GF, JS Bal Complex, Great Eastern Road, opposite Bharat Mata School, Tatibandh, Raipur, Chhattisgarh",
+    "phone": "07714087123",
+    "latitude": 21.2595781,
+    "longitude": 81.5752148,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.8/5 from 8 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Tatibandh+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2595781%2C81.5752148",
+    "reviewRating": 3.8,
+    "reviewCount": 8
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-fafadih",
+    "name": "Apollo Pharmacy Fafadih",
+    "type": "pharmacy",
+    "address": "No. 21/814/815, Raipur-Bilaspur Main Road, New Timber Market Road, Fafadih, Raipur, Chhattisgarh",
+    "phone": "07942813259",
+    "latitude": 21.2612857,
+    "longitude": 81.6370328,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.4/5 from 23 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Fafadih+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2612857%2C81.6370328",
+    "reviewRating": 3.4,
+    "reviewCount": 23
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-devendra-nagar",
+    "name": "Apollo Pharmacy Devendra Nagar",
+    "type": "pharmacy",
+    "address": "No. 22, near Gujarati School, Devendra Nagar, Raipur, Chhattisgarh",
+    "phone": "07942813251",
+    "latitude": 21.2585175,
+    "longitude": 81.6493888,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.9/5 from 11 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Devendra+Nagar+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2585175%2C81.6493888",
+    "reviewRating": 3.9,
+    "reviewCount": 11
+  },
+  {
+    "id": "raipur-store-vihaan-pharmacy-stores",
+    "name": "Vihaan Pharmacy Stores",
+    "type": "pharmacy",
+    "address": "Samta Colony Main Road, in front of Sachdeva Nursing Home, Raipur, Chhattisgarh",
+    "phone": "08085816339",
+    "latitude": 21.246497,
+    "longitude": 81.6238888,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.4/5 from 7 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Vihaan+Pharmacy+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.246497%2C81.6238888",
+    "reviewRating": 4.4,
+    "reviewCount": 7
+  },
+  {
+    "id": "raipur-store-o2-pharmacy",
+    "name": "O2 Pharmacy",
+    "type": "pharmacy",
+    "address": "Shop G-13, Karsan Chambers, Timber Road Market, Raipur, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.2618558,
+    "longitude": 81.6430213,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.9/5 from 151 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=O2+Pharmacy+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2618558%2C81.6430213",
+    "reviewRating": 4.9,
+    "reviewCount": 151
+  },
+  {
+    "id": "raipur-store-medplus-pahadipara",
+    "name": "MedPlus Pahadipara",
+    "type": "pharmacy",
+    "address": "Near Shiv-Sai Mandir, Pahadipara, Raipur, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.2632254,
+    "longitude": 81.6224705,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.0/5 from 8 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=MedPlus+Pahadipara+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2632254%2C81.6224705",
+    "reviewRating": 4.0,
+    "reviewCount": 8
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-raipur-bazaar",
+    "name": "Apollo Pharmacy Raipur Bazaar",
+    "type": "pharmacy",
+    "address": "JL No. 139, Mouza Raipur Bazar, Raipur, Chhattisgarh",
+    "phone": "07596027784",
+    "latitude": 21.251421,
+    "longitude": 81.6296064,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 1.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Raipur+Bazaar+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.251421%2C81.6296064",
+    "reviewRating": 1.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-shankar-nagar",
+    "name": "Apollo Pharmacy Shankar Nagar",
+    "type": "pharmacy",
+    "address": "No. 32, Radha Krishna Apartment, Kachna Pahuch Marg, Shankar Nagar, Raipur, Chhattisgarh",
+    "phone": "07942813257",
+    "latitude": 21.251984,
+    "longitude": 81.6642634,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.7/5 from 59 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Shankar+Nagar+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.251984%2C81.6642634",
+    "reviewRating": 3.7,
+    "reviewCount": 59
+  },
+  {
+    "id": "raipur-store-savitri-medical-stores",
+    "name": "Savitri Medical Stores",
+    "type": "pharmacy",
+    "address": "Gogaon Road, Raipur, Chhattisgarh",
+    "phone": "09754341780",
+    "latitude": 21.265728,
+    "longitude": 81.6156269,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.9/5 from 21 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Savitri+Medical+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.265728%2C81.6156269",
+    "reviewRating": 3.9,
+    "reviewCount": 21
+  },
+  {
+    "id": "raipur-store-kabir-medical-stores",
+    "name": "Kabir Medical Stores",
+    "type": "pharmacy",
+    "address": "Karma Chowk, opposite Aven Tailors, Raipur, Chhattisgarh",
+    "phone": "08982815121",
+    "latitude": 21.2632513,
+    "longitude": 81.6010474,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 2 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Kabir+Medical+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2632513%2C81.6010474",
+    "reviewRating": 5.0,
+    "reviewCount": 2
+  },
+  {
+    "id": "raipur-store-jai-medicals-plus",
+    "name": "Jai Medicals Plus",
+    "type": "pharmacy",
+    "address": "Shop 1 and 1A, near Balaji Multispeciality Hospital, Mowa, Raipur, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.2705257,
+    "longitude": 81.6696979,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.8/5 from 426 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Jai+Medicals+Plus+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2705257%2C81.6696979",
+    "reviewRating": 4.8,
+    "reviewCount": 426
+  },
+  {
+    "id": "raipur-store-jai-laxmi-medical-general-stores",
+    "name": "Jai Laxmi Medical & General Stores",
+    "type": "pharmacy",
+    "address": "15, Vidhan Sabha Road, Raipur, Chhattisgarh",
+    "phone": "09926654432",
+    "latitude": 21.266056,
+    "longitude": 81.663524,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.5/5 from 41 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Jai+Laxmi+Medical+&+General+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.266056%2C81.663524",
+    "reviewRating": 4.5,
+    "reviewCount": 41
+  },
+  {
+    "id": "raipur-store-mishra-medical-store-chemist-druggist",
+    "name": "Mishra Medical Store Chemist & Druggist",
+    "type": "pharmacy",
+    "address": "Shivanand Nagar Road, near Sahu Atta Chakki, Raipur, Chhattisgarh",
+    "phone": "09993397802",
+    "latitude": 21.2732648,
+    "longitude": 81.6334276,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 3 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Mishra+Medical+Store+Chemist+&+Druggist+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2732648%2C81.6334276",
+    "reviewRating": 5.0,
+    "reviewCount": 3
+  },
+  {
+    "id": "raipur-store-laxmi-medical-store-shivanand-nagar",
+    "name": "Laxmi Medical Store Shivanand Nagar",
+    "type": "pharmacy",
+    "address": "Shivanand Nagar Road, Raipur, Chhattisgarh",
+    "phone": "07714010700",
+    "latitude": 21.2675424,
+    "longitude": 81.6138779,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 2.0/5 from 3 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Laxmi+Medical+Store+Shivanand+Nagar+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2675424%2C81.6138779",
+    "reviewRating": 2.0,
+    "reviewCount": 3
+  },
+  {
+    "id": "raipur-store-pooja-medical-store-jhanda-chowk",
+    "name": "Pooja Medical Store Jhanda Chowk",
+    "type": "pharmacy",
+    "address": "Jhanda Chowk Road, Raipur, Chhattisgarh",
+    "phone": "08878001106",
+    "latitude": 21.2723515,
+    "longitude": 81.630469,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Pooja+Medical+Store+Jhanda+Chowk+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2723515%2C81.630469",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-mowa-branch",
+    "name": "Apollo Pharmacy Mowa Branch",
+    "type": "pharmacy",
+    "address": "109, Vidhan Sabha Road, near Jindal Hospital, Mowa, Raipur, Chhattisgarh",
+    "phone": "07949290590",
+    "latitude": 21.2664766,
+    "longitude": 81.6646974,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 2.9/5 from 11 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Mowa+Branch+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2664766%2C81.6646974",
+    "reviewRating": 2.9,
+    "reviewCount": 11
+  },
+  {
+    "id": "raipur-store-medplus-daldal-seoni",
+    "name": "MedPlus Daldal Seoni",
+    "type": "pharmacy",
+    "address": "Opposite Sumit Wholesale, Daldal Seoni, Raipur, Chhattisgarh",
+    "phone": "09039017583",
+    "latitude": 21.2733939,
+    "longitude": 81.6663849,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.4/5 from 17 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=MedPlus+Daldal+Seoni+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2733939%2C81.6663849",
+    "reviewRating": 4.4,
+    "reviewCount": 17
+  },
+  {
+    "id": "raipur-store-vaisnavi-medical-pharmacy",
+    "name": "Vaisnavi Medical Pharmacy",
+    "type": "pharmacy",
+    "address": "Sai Villa, in front of Alice Spring School, Mowa, Raipur, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.2716617,
+    "longitude": 81.6692506,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 18 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Vaisnavi+Medical+Pharmacy+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2716617%2C81.6692506",
+    "reviewRating": 5.0,
+    "reviewCount": 18
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-dubey-colony-mowa",
+    "name": "Apollo Pharmacy Dubey Colony Mowa",
+    "type": "pharmacy",
+    "address": "No. 1, near Shri Balaji Hospital, Dubey Colony, Mowa, Raipur, Chhattisgarh",
+    "phone": "07949290410",
+    "latitude": 21.2686464,
+    "longitude": 81.6705257,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.0/5 from 5 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Dubey+Colony+Mowa+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2686464%2C81.6705257",
+    "reviewRating": 4.0,
+    "reviewCount": 5
+  },
+  {
+    "id": "raipur-store-apollo-clinic-pharmacy-mowa",
+    "name": "Apollo Clinic Pharmacy Mowa",
+    "type": "pharmacy",
+    "address": "7M6F+P92, Mowa, Raipur, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.2617542,
+    "longitude": 81.6733898,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.8/5 from 8 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Clinic+Pharmacy+Mowa+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2617542%2C81.6733898",
+    "reviewRating": 3.8,
+    "reviewCount": 8
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-katora-talab",
+    "name": "Apollo Pharmacy Katora Talab",
+    "type": "pharmacy",
+    "address": "D-601, Katora Talab Main Road, opposite Site Netaji Hotel, Raipur, Chhattisgarh",
+    "phone": "07942813256",
+    "latitude": 21.2349804,
+    "longitude": 81.6511579,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 2.8/5 from 4 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Katora+Talab+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2349804%2C81.6511579",
+    "reviewRating": 2.8,
+    "reviewCount": 4
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-shyamnagar",
+    "name": "Apollo Pharmacy Shyamnagar",
+    "type": "pharmacy",
+    "address": "No. 1, Gurudwara Road, opposite Vijay Jewellers, Shyamnagar, Raipur, Chhattisgarh",
+    "phone": "07942813258",
+    "latitude": 21.2380941,
+    "longitude": 81.6621192,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.1/5 from 7 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Shyamnagar+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2380941%2C81.6621192",
+    "reviewRating": 4.1,
+    "reviewCount": 7
+  },
+  {
+    "id": "raipur-store-netmeds-pharmacy-panchpedi-naka",
+    "name": "Netmeds Pharmacy Panchpedi Naka",
+    "type": "pharmacy",
+    "address": "W.No. 58, Smart Point, Pujari Chambers, Panchpedi Naka, Dhamtari Road, Raipur, Chhattisgarh",
+    "phone": "09321997970",
+    "latitude": 21.2230039,
+    "longitude": 81.6455214,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.0/5 from 2 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Netmeds+Pharmacy+Panchpedi+Naka+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2230039%2C81.6455214",
+    "reviewRating": 3.0,
+    "reviewCount": 2
+  },
+  {
+    "id": "raipur-store-apollo-pharmacy-lakhe-nagar",
+    "name": "Apollo Pharmacy Lakhe Nagar",
+    "type": "pharmacy",
+    "address": "Nirmal Tower, Ward 43, Lakhe Nagar, Raipur, Chhattisgarh",
+    "phone": "07942812237",
+    "latitude": 21.2230533,
+    "longitude": 81.6486471,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.2/5 from 5 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Apollo+Pharmacy+Lakhe+Nagar+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2230533%2C81.6486471",
+    "reviewRating": 4.2,
+    "reviewCount": 5
+  },
+  {
+    "id": "raipur-store-vidya-medical-pharmacy",
+    "name": "Vidya Medical & Pharmacy",
+    "type": "pharmacy",
+    "address": "39, Main Road, opposite Indian Chilly Square, Raipur, Chhattisgarh",
+    "phone": "07999221249",
+    "latitude": 21.2489422,
+    "longitude": 81.6617903,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.0/5 from 17 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Vidya+Medical+&+Pharmacy+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2489422%2C81.6617903",
+    "reviewRating": 4.0,
+    "reviewCount": 17
+  },
+  {
+    "id": "raipur-store-laxmi-medical-store-raipur",
+    "name": "Laxmi Medical Store Raipur",
+    "type": "pharmacy",
+    "address": "Shastri Chowk, Ghadi Chowk, opposite DKS Hospital, Raipur, Chhattisgarh",
+    "phone": "08120880000",
+    "latitude": 21.2455824,
+    "longitude": 81.6409972,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.2/5 from 80 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Laxmi+Medical+Store+Raipur+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2455824%2C81.6409972",
+    "reviewRating": 4.2,
+    "reviewCount": 80
+  },
+  {
+    "id": "raipur-store-healthcare-hub-mediservices-railway-station",
+    "name": "Healthcare Hub MediServices Railway Station",
+    "type": "pharmacy",
+    "address": "Gate 2, Reservation Area, Raipur Railway Station, Raipur, Chhattisgarh",
+    "phone": "08349770499",
+    "latitude": 21.2567928,
+    "longitude": 81.630151,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.4/5 from 14 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Healthcare+Hub+MediServices+Railway+Station+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2567928%2C81.630151",
+    "reviewRating": 4.4,
+    "reviewCount": 14
+  },
+  {
+    "id": "raipur-store-shri-krishna-medical-stores-pahadi-chowk-gudiyari",
+    "name": "Shri Krishna Medical Stores Pahadi Chowk Gudiyari",
+    "type": "pharmacy",
+    "address": "Pahadi Chowk, Gudiyari, Raipur, Chhattisgarh",
+    "phone": "07714073160",
+    "latitude": 21.26034,
+    "longitude": 81.6248619,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.2/5 from 9 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Shri+Krishna+Medical+Stores+Pahadi+Chowk+Gudiyari+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.26034%2C81.6248619",
+    "reviewRating": 4.2,
+    "reviewCount": 9
+  },
+  {
+    "id": "raipur-store-om-medical-stores-deshbandhu-press-road",
+    "name": "Om Medical Stores Deshbandhu Press Road",
+    "type": "pharmacy",
+    "address": "Deshbandhu Press Road, Raipur, Chhattisgarh",
+    "phone": "09131449722",
+    "latitude": 21.2457368,
+    "longitude": 81.6291673,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.5/5 from 15 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Om+Medical+Stores+Deshbandhu+Press+Road+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2457368%2C81.6291673",
+    "reviewRating": 4.5,
+    "reviewCount": 15
+  },
+  {
+    "id": "raipur-store-laxmi-medical-hall-mekahara",
+    "name": "Laxmi Medical Hall Mekahara",
+    "type": "pharmacy",
+    "address": "Rajbandha Road, opposite Dr. B. R. Ambedkar Hospital Gate 2, Raipur, Chhattisgarh",
+    "phone": "06260349909",
+    "latitude": 21.248779,
+    "longitude": 81.6410792,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.6/5 from 75 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Laxmi+Medical+Hall+Mekahara+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.248779%2C81.6410792",
+    "reviewRating": 3.6,
+    "reviewCount": 75
+  },
+  {
+    "id": "raipur-store-ratna-medical-stores",
+    "name": "Ratna Medical Stores",
+    "type": "pharmacy",
+    "address": "85, Station Road, near Station Gurudwara, opposite Arihant Complex, Raipur, Chhattisgarh",
+    "phone": "07697600201",
+    "latitude": 21.2543302,
+    "longitude": 81.6300514,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.4/5 from 8 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Ratna+Medical+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2543302%2C81.6300514",
+    "reviewRating": 4.4,
+    "reviewCount": 8
+  },
+  {
+    "id": "raipur-store-laxmi-medical-store-amrit-sandesh-branch",
+    "name": "Laxmi Medical Store Amrit Sandesh Branch",
+    "type": "pharmacy",
+    "address": "Amrit Sandesh Complex, Great Eastern Road, Raipur, Chhattisgarh",
+    "phone": "08120880000",
+    "latitude": 21.245805,
+    "longitude": 81.6399396,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.5/5 from 166 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Laxmi+Medical+Store+Amrit+Sandesh+Branch+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.245805%2C81.6399396",
+    "reviewRating": 3.5,
+    "reviewCount": 166
+  },
+  {
+    "id": "raipur-store-7-11-pharmacy",
+    "name": "7-11 Pharmacy",
+    "type": "pharmacy",
+    "address": "Near Guru Nanak Chowk, Raipur, Chhattisgarh",
+    "phone": "08763160673",
+    "latitude": 21.2667779,
+    "longitude": 81.5987344,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 11 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=7-11+Pharmacy+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2667779%2C81.5987344",
+    "reviewRating": 5.0,
+    "reviewCount": 11
+  },
+  {
+    "id": "raipur-store-maa-danteshwari-medical-stores",
+    "name": "Maa Danteshwari Medical Stores",
+    "type": "pharmacy",
+    "address": "6HWG+59Q, Main Road, Raipur, Chhattisgarh",
+    "phone": "09399008684",
+    "latitude": 21.2454536,
+    "longitude": 81.57599,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Maa+Danteshwari+Medical+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2454536%2C81.57599"
+  },
+  {
+    "id": "raipur-store-ganga-medical-store",
+    "name": "Ganga Medical Store",
+    "type": "pharmacy",
+    "address": "6HWF+GX6, Raipur, Chhattisgarh",
+    "phone": "08827547787",
+    "latitude": 21.2462875,
+    "longitude": 81.5748906,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 3 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Ganga+Medical+Store+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2462875%2C81.5748906",
+    "reviewRating": 5.0,
+    "reviewCount": 3
+  },
+  {
+    "id": "raipur-store-deepak-medical",
+    "name": "Deepak Medical",
+    "type": "pharmacy",
+    "address": "6HWG+5Q8, Sarona Basti Main Road, Raipur, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.245419,
+    "longitude": 81.5769483,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Deepak+Medical+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.245419%2C81.5769483"
+  },
+  {
+    "id": "raipur-store-rajesh-medical-store-sarona",
+    "name": "Rajesh Medical Store Sarona",
+    "type": "pharmacy",
+    "address": "Sant Ravidas, Raipur, Chhattisgarh",
+    "phone": "09039807007",
+    "latitude": 21.2456233,
+    "longitude": 81.5774121,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Rajesh+Medical+Store+Sarona+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2456233%2C81.5774121"
+  },
+  {
+    "id": "raipur-store-medical-pharmacy-lavsara",
+    "name": "Medical Pharmacy Lavsara",
+    "type": "pharmacy",
+    "address": "Lavsara, Raipur, Chhattisgarh",
+    "phone": "08770343602",
+    "latitude": 21.2458327,
+    "longitude": 81.5751968,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Medical+Pharmacy+Lavsara+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2458327%2C81.5751968"
+  },
+  {
+    "id": "raipur-store-bhowray-medical-store",
+    "name": "Bhowray Medical Store",
+    "type": "pharmacy",
+    "address": "Great Eastern Road, beside AIIMS Hospital, Raipur, Chhattisgarh",
+    "phone": "09669097777",
+    "latitude": 21.2581729,
+    "longitude": 81.5818364,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 3.9/5 from 9 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Bhowray+Medical+Store+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2581729%2C81.5818364",
+    "reviewRating": 3.9,
+    "reviewCount": 9
+  },
+  {
+    "id": "raipur-store-sagar-medical-stores",
+    "name": "Sagar Medical Stores",
+    "type": "pharmacy",
+    "address": "Tendua Main Road, near Sahu Dawakhana, Raipur, Chhattisgarh",
+    "phone": "07000727753",
+    "latitude": 21.2902818,
+    "longitude": 81.5712972,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 2 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Sagar+Medical+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2902818%2C81.5712972",
+    "reviewRating": 5.0,
+    "reviewCount": 2
+  },
+  {
+    "id": "raipur-store-nautam-medical-stores",
+    "name": "Nautam Medical Stores",
+    "type": "pharmacy",
+    "address": "Ward 40, Bazaar Chowk, near school, Majdoor Nagar, Sarora, Raipur, Chhattisgarh",
+    "phone": "09926694414",
+    "latitude": 21.2836186,
+    "longitude": 81.6047441,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Nautam+Medical+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2836186%2C81.6047441"
+  },
+  {
+    "id": "raipur-store-himani-medical-and-general-store",
+    "name": "Himani Medical and General Store",
+    "type": "pharmacy",
+    "address": "Hirapur Road, Raipur, Chhattisgarh",
+    "phone": "07999971730",
+    "latitude": 21.2719788,
+    "longitude": 81.5802524,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.5/5 from 16 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Himani+Medical+and+General+Store+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2719788%2C81.5802524",
+    "reviewRating": 4.5,
+    "reviewCount": 16
+  },
+  {
+    "id": "raipur-store-aditya-medical-general-stores",
+    "name": "Aditya Medical & General Stores",
+    "type": "pharmacy",
+    "address": "7HGV+X6J, Raipur, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.2774709,
+    "longitude": 81.5930156,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Aditya+Medical+&+General+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2774709%2C81.5930156",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-shiv-medical-stores",
+    "name": "Shiv Medical Stores",
+    "type": "pharmacy",
+    "address": "7HHW+CQR, Bazaar Chowk, Raipur, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.2786064,
+    "longitude": 81.5969006,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Shiv+Medical+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2786064%2C81.5969006"
+  },
+  {
+    "id": "raipur-store-dhanvantari-medical-general-stores",
+    "name": "Dhanvantari Medical & General Stores",
+    "type": "pharmacy",
+    "address": "Mohba Bazar Chowk, Great Eastern Road, Raipur, Chhattisgarh",
+    "phone": "09893033187",
+    "latitude": 21.2561296,
+    "longitude": 81.5898435,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.3/5 from 16 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Dhanvantari+Medical+&+General+Stores+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2561296%2C81.5898435",
+    "reviewRating": 4.3,
+    "reviewCount": 16
+  },
+  {
+    "id": "raipur-store-aarogyam-pharmacy-mansarovar-bhavan",
+    "name": "Aarogyam Pharmacy Mansarovar Bhavan",
+    "type": "pharmacy",
+    "address": "Shop 3, Ground Floor, Danganiya Chowk, in front of GSI Building, Raipur, Chhattisgarh",
+    "phone": "09340093307",
+    "latitude": 21.2405452,
+    "longitude": 81.6013866,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.2/5 from 10 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Aarogyam+Pharmacy+Mansarovar+Bhavan+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2405452%2C81.6013866",
+    "reviewRating": 4.2,
+    "reviewCount": 10
+  },
+  {
+    "id": "raipur-store-raj-medical-stores-mahadev-ghat-road",
+    "name": "Raj Medical Stores Mahadev Ghat Road",
+    "type": "pharmacy",
+    "address": "Mahadev Ghat Road, Raipur, Chhattisgarh",
+    "phone": "08878180008",
+    "latitude": 21.2296484,
+    "longitude": 81.5984152,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 9 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Raj+Medical+Stores+Mahadev+Ghat+Road+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2296484%2C81.5984152",
+    "reviewRating": 5.0,
+    "reviewCount": 9
+  },
+  {
+    "id": "raipur-store-jai-medical-stores-passport-office-road",
+    "name": "Jai Medical Stores Passport Office Road",
+    "type": "pharmacy",
+    "address": "Passport Office Road, Raipur, Chhattisgarh",
+    "phone": "09098345881",
+    "latitude": 21.2368907,
+    "longitude": 81.6001221,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.6/5 from 23 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Jai+Medical+Stores+Passport+Office+Road+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2368907%2C81.6001221",
+    "reviewRating": 4.6,
+    "reviewCount": 23
+  },
+  {
+    "id": "raipur-store-gyan-medical-stores-tilda",
+    "name": "Gyan Medical Stores Tilda",
+    "type": "pharmacy",
+    "address": "Main Road, Tilda-Neora, Raipur district, Chhattisgarh",
+    "phone": "07389477016",
+    "latitude": 21.5533595,
+    "longitude": 81.80209,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.6/5 from 8 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Gyan+Medical+Stores+Tilda+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.5533595%2C81.80209",
+    "reviewRating": 4.6,
+    "reviewCount": 8
+  },
+  {
+    "id": "raipur-store-sindh-medical-stores-tilda",
+    "name": "Sindh Medical Stores Tilda",
+    "type": "pharmacy",
+    "address": "Tilda-Neora, Raipur district, Chhattisgarh",
+    "phone": "07998884448",
+    "latitude": 21.550846,
+    "longitude": 81.7962395,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.5/5 from 13 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Sindh+Medical+Stores+Tilda+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.550846%2C81.7962395",
+    "reviewRating": 4.5,
+    "reviewCount": 13
+  },
+  {
+    "id": "raipur-store-jai-maa-laxmi-medical-store-tilda",
+    "name": "Jai Maa Laxmi Medical Store Tilda",
+    "type": "pharmacy",
+    "address": "Tilda-Simga Road, near Sasaholi Overbridge, Tilda-Neora, Raipur district, Chhattisgarh",
+    "phone": "07869174377",
+    "latitude": 21.5557865,
+    "longitude": 81.7937353,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Jai+Maa+Laxmi+Medical+Store+Tilda+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.5557865%2C81.7937353",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-sunil-medical-stores-tilda",
+    "name": "Sunil Medical Stores Tilda",
+    "type": "pharmacy",
+    "address": "Tilda-Neora, Raipur district, Chhattisgarh",
+    "phone": "08109897848",
+    "latitude": 21.5500182,
+    "longitude": 81.7974378,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 2 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Sunil+Medical+Stores+Tilda+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.5500182%2C81.7974378",
+    "reviewRating": 5.0,
+    "reviewCount": 2
+  },
+  {
+    "id": "raipur-store-harish-medical-stores-tilda",
+    "name": "Harish Medical Stores Tilda",
+    "type": "pharmacy",
+    "address": "Tilda-Neora, Raipur district, Chhattisgarh",
+    "phone": "09098838837",
+    "latitude": 21.5543518,
+    "longitude": 81.8040938,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.5/5 from 2 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Harish+Medical+Stores+Tilda+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.5543518%2C81.8040938",
+    "reviewRating": 4.5,
+    "reviewCount": 2
+  },
+  {
+    "id": "raipur-store-pooja-medical-stores-tilda",
+    "name": "Pooja Medical Stores Tilda",
+    "type": "pharmacy",
+    "address": "GQVW+7X4, Tilda-Neora, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.5432798,
+    "longitude": 81.7973753,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Pooja+Medical+Stores+Tilda+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.5432798%2C81.7973753",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-anand-medical-stores-abhanpur",
+    "name": "Anand Medical Stores Abhanpur",
+    "type": "pharmacy",
+    "address": "Near Government Veterinary Hospital, Abhanpur, Raipur district, Chhattisgarh",
+    "phone": "09770908912",
+    "latitude": 21.1169793,
+    "longitude": 81.7617205,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 2 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Anand+Medical+Stores+Abhanpur+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1169793%2C81.7617205",
+    "reviewRating": 5.0,
+    "reviewCount": 2
+  },
+  {
+    "id": "raipur-store-romashree-medical-stores-abhanpur",
+    "name": "Romashree Medical Stores Abhanpur",
+    "type": "pharmacy",
+    "address": "Abhanpur, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.117398,
+    "longitude": 81.7623254,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Romashree+Medical+Stores+Abhanpur+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.117398%2C81.7623254",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-preeti-medical-store-kendri",
+    "name": "Preeti Medical Store Kendri",
+    "type": "pharmacy",
+    "address": "Kendri, Abhanpur block, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.1010125,
+    "longitude": 81.7404514,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Preeti+Medical+Store+Kendri+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1010125%2C81.7404514",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-shridh-medical-stores-kendri",
+    "name": "Shridh Medical Stores Kendri",
+    "type": "pharmacy",
+    "address": "Kendri, Abhanpur block, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.1012631,
+    "longitude": 81.7397269,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Shridh+Medical+Stores+Kendri+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1012631%2C81.7397269"
+  },
+  {
+    "id": "raipur-store-mahalaxmi-medical-stores-nava-raipur",
+    "name": "Mahalaxmi Medical Stores Nava Raipur",
+    "type": "pharmacy",
+    "address": "Nava Raipur, Raipur district, Chhattisgarh",
+    "phone": "09753164899",
+    "latitude": 21.1412535,
+    "longitude": 81.7804227,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.1/5 from 8 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Mahalaxmi+Medical+Stores+Nava+Raipur+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1412535%2C81.7804227",
+    "reviewRating": 4.1,
+    "reviewCount": 8
+  },
+  {
+    "id": "raipur-store-shree-rajiv-lochan-medical-stores-nava-raipur",
+    "name": "Shree Rajiv Lochan Medical Stores Nava Raipur",
+    "type": "pharmacy",
+    "address": "Nava Raipur, Raipur district, Chhattisgarh",
+    "phone": "09754069160",
+    "latitude": 21.1291943,
+    "longitude": 81.7870581,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Shree+Rajiv+Lochan+Medical+Stores+Nava+Raipur+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1291943%2C81.7870581"
+  },
+  {
+    "id": "raipur-store-basundhara-medical-nava-raipur",
+    "name": "Basundhara Medical Nava Raipur",
+    "type": "pharmacy",
+    "address": "Nava Raipur, Raipur district, Chhattisgarh",
+    "phone": "09713830099",
+    "latitude": 21.1365048,
+    "longitude": 81.7863659,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.0/5 from 3 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Basundhara+Medical+Nava+Raipur+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1365048%2C81.7863659",
+    "reviewRating": 4.0,
+    "reviewCount": 3
+  },
+  {
+    "id": "raipur-store-shri-ram-medical-stores-nava-raipur",
+    "name": "Shri Ram Medical Stores Nava Raipur",
+    "type": "pharmacy",
+    "address": "Raipur Road, Nava Raipur, Raipur district, Chhattisgarh",
+    "phone": "09981478314",
+    "latitude": 21.1056904,
+    "longitude": 81.787985,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Shri+Ram+Medical+Stores+Nava+Raipur+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1056904%2C81.787985"
+  },
+  {
+    "id": "raipur-store-yuvraj-medical-stores-nava-raipur",
+    "name": "Yuvraj Medical Stores Nava Raipur",
+    "type": "pharmacy",
+    "address": "Nava Raipur, Raipur district, Chhattisgarh",
+    "phone": "06268050253",
+    "latitude": 21.1740086,
+    "longitude": 81.7813453,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.6/5 from 17 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Yuvraj+Medical+Stores+Nava+Raipur+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1740086%2C81.7813453",
+    "reviewRating": 4.6,
+    "reviewCount": 17
+  },
+  {
+    "id": "raipur-store-maa-laxmi-medical-general-store-mana-basti",
+    "name": "Maa Laxmi Medical & General Store Mana Basti",
+    "type": "pharmacy",
+    "address": "Atal Bazar, Mana Basti, Raipur-Abhanpur Road, Raipur district, Chhattisgarh",
+    "phone": "09752902953",
+    "latitude": 21.1676779,
+    "longitude": 81.7267506,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 2 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Maa+Laxmi+Medical+&+General+Store+Mana+Basti+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1676779%2C81.7267506",
+    "reviewRating": 5.0,
+    "reviewCount": 2
+  },
+  {
+    "id": "raipur-store-khushi-medical-stores-mana-basti",
+    "name": "Khushi Medical Stores Mana Basti",
+    "type": "pharmacy",
+    "address": "Atal Bazar, Mana Basti, Raipur-Abhanpur Road, Raipur district, Chhattisgarh",
+    "phone": "08120140146",
+    "latitude": 21.1688376,
+    "longitude": 81.7255121,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Khushi+Medical+Stores+Mana+Basti+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1688376%2C81.7255121"
+  },
+  {
+    "id": "raipur-store-manju-medical-store-mana-basti",
+    "name": "Manju Medical Store Mana Basti",
+    "type": "pharmacy",
+    "address": "New Dhamtari Road, near Government School, Mana Basti, Raipur district, Chhattisgarh",
+    "phone": "09993039803",
+    "latitude": 21.1686799,
+    "longitude": 81.7260832,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 3 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Manju+Medical+Store+Mana+Basti+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1686799%2C81.7260832",
+    "reviewRating": 5.0,
+    "reviewCount": 3
+  },
+  {
+    "id": "raipur-store-lucky-medicose-mana-basti",
+    "name": "Lucky Medicose Mana Basti",
+    "type": "pharmacy",
+    "address": "Main Road, Mana Basti, Raipur district, Chhattisgarh",
+    "phone": "09827198420",
+    "latitude": 21.1690179,
+    "longitude": 81.7256475,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.9/5 from 11 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Lucky+Medicose+Mana+Basti+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1690179%2C81.7256475",
+    "reviewRating": 4.9,
+    "reviewCount": 11
+  },
+  {
+    "id": "raipur-store-rahul-medical-store-mana-basti",
+    "name": "Rahul Medical Store Mana Basti",
+    "type": "pharmacy",
+    "address": "5MJW+CPQ, Mana Basti, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.1810764,
+    "longitude": 81.6968559,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Rahul+Medical+Store+Mana+Basti+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1810764%2C81.6968559",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-raghav-medical-stores-mana-basti",
+    "name": "Raghav Medical Stores Mana Basti",
+    "type": "pharmacy",
+    "address": "Greens Ville City, Mana Basti, Raipur district, Chhattisgarh",
+    "phone": "08458878977",
+    "latitude": 21.1803122,
+    "longitude": 81.6981235,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Raghav+Medical+Stores+Mana+Basti+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1803122%2C81.6981235",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-akanksha-medical-store-mana-basti",
+    "name": "Akanksha Medical Store Mana Basti",
+    "type": "pharmacy",
+    "address": "439, Mana Basti, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.1807481,
+    "longitude": 81.7010785,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Akanksha+Medical+Store+Mana+Basti+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1807481%2C81.7010785",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-rajdhani-medical-stores-mana-basti",
+    "name": "Rajdhani Medical Stores Mana Basti",
+    "type": "pharmacy",
+    "address": "Mana Basti, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.1685877,
+    "longitude": 81.726083,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Rajdhani+Medical+Stores+Mana+Basti+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1685877%2C81.726083",
+    "reviewRating": 4.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-medplus-pharmacy-arang",
+    "name": "MedPlus Pharmacy Arang",
+    "type": "pharmacy",
+    "address": "Indira Chowk, near Naya Raipur Road, Arang, Raipur district, Chhattisgarh",
+    "phone": "06232031416",
+    "latitude": 21.1953107,
+    "longitude": 81.9620948,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 2 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=MedPlus+Pharmacy+Arang+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1953107%2C81.9620948",
+    "reviewRating": 5.0,
+    "reviewCount": 2
+  },
+  {
+    "id": "raipur-store-uma-shree-medical-shop-arang",
+    "name": "Uma Shree Medical Shop Arang",
+    "type": "pharmacy",
+    "address": "College Chowk, Arang, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.1962469,
+    "longitude": 81.9598474,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Uma+Shree+Medical+Shop+Arang+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1962469%2C81.9598474"
+  },
+  {
+    "id": "raipur-store-manoj-medical-arang",
+    "name": "Manoj Medical Arang",
+    "type": "pharmacy",
+    "address": "5XV8+M22, Arang, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.1941473,
+    "longitude": 81.9650288,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.0/5 from 5 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Manoj+Medical+Arang+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1941473%2C81.9650288",
+    "reviewRating": 4.0,
+    "reviewCount": 5
+  },
+  {
+    "id": "raipur-store-priya-medical-store-arang",
+    "name": "Priya Medical Store Arang",
+    "type": "pharmacy",
+    "address": "Main Road, Arang, Raipur district, Chhattisgarh",
+    "phone": "09993370393",
+    "latitude": 21.1951213,
+    "longitude": 81.9642864,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.7/5 from 10 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Priya+Medical+Store+Arang+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1951213%2C81.9642864",
+    "reviewRating": 4.7,
+    "reviewCount": 10
+  },
+  {
+    "id": "raipur-store-vasu-medical-stores-arang",
+    "name": "Vasu Medical Stores Arang",
+    "type": "pharmacy",
+    "address": "5XV7+RXH, Arang, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.1945726,
+    "longitude": 81.9649852,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Vasu+Medical+Stores+Arang+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1945726%2C81.9649852",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-shri-ganesh-medical-store-arang",
+    "name": "Shri Ganesh Medical Store Arang",
+    "type": "pharmacy",
+    "address": "Bus Station, Arang, Raipur district, Chhattisgarh",
+    "phone": "09993490003",
+    "latitude": 21.1931919,
+    "longitude": 81.9659576,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 4.8/5 from 4 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Shri+Ganesh+Medical+Store+Arang+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1931919%2C81.9659576",
+    "reviewRating": 4.8,
+    "reviewCount": 4
+  },
+  {
+    "id": "raipur-store-manjusha-medical-stores-arang",
+    "name": "Manjusha Medical Stores Arang",
+    "type": "pharmacy",
+    "address": "5XV8+5VH, Arang, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.1929463,
+    "longitude": 81.9672258,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 2.0/5 from 2 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Manjusha+Medical+Stores+Arang+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.1929463%2C81.9672258",
+    "reviewRating": 2.0,
+    "reviewCount": 2
+  },
+  {
+    "id": "raipur-store-mamta-medical-stores-arang",
+    "name": "Mamta Medical Stores Arang",
+    "type": "pharmacy",
+    "address": "Arang, Raipur district, Chhattisgarh",
+    "phone": "09009104005",
+    "latitude": 21.195187,
+    "longitude": 81.96431,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Mamta+Medical+Stores+Arang+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.195187%2C81.96431",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-s-kamal-medical-stores-farfaud",
+    "name": "S Kamal Medical Stores Farfaud",
+    "type": "pharmacy",
+    "address": "Bus Stand, Farfaud, Arang block, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.2778466,
+    "longitude": 81.9527836,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=S+Kamal+Medical+Stores+Farfaud+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.2778466%2C81.9527836"
+  },
+  {
+    "id": "raipur-store-dhan-laxmi-medical-stores-dharsiwa",
+    "name": "Dhan Laxmi Medical Stores Dharsiwa",
+    "type": "pharmacy",
+    "address": "Dharsiwa, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.3657902,
+    "longitude": 81.7324325,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; 5.0/5 from 1 reviews at lookup. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Dhan+Laxmi+Medical+Stores+Dharsiwa+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.3657902%2C81.7324325",
+    "reviewRating": 5.0,
+    "reviewCount": 1
+  },
+  {
+    "id": "raipur-store-kashyap-medical-dharsiwa",
+    "name": "Kashyap Medical Dharsiwa",
+    "type": "pharmacy",
+    "address": "Station Road, Dharsiwa, Raipur district, Chhattisgarh",
+    "phone": null,
+    "latitude": 21.3433738,
+    "longitude": 81.6994702,
+    "services": [
+      "Pharmacy"
+    ],
+    "verificationStatus": "google_maps_listed_license_unconfirmed",
+    "source": "Google Maps business listing; pharmacy listing presence confirmed. Business license status not independently checked.",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=Kashyap+Medical+Dharsiwa+Raipur+Chhattisgarh",
+    "lastVerified": "2026-10-13",
+    "coordinateStatus": "Google Maps listing coordinates",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/?api=1&query=21.3433738%2C81.6994702"
+  }
+]

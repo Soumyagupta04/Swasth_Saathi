@@ -1,0 +1,10 @@
+{
+  "packId": "raipur-district",
+  "version": "1.8.0",
+  "lastUpdated": "2026-10-13",
+  "files": {
+    "hospitals": "hospitals.json",
+    "doctors": "doctors.json",
+    "medicalStores": "medical-stores.json"
+  }
+}
